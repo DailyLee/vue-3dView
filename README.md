@@ -9,21 +9,11 @@ yarn install
 ```
 yarn run serve
 ```
+### 组件源码在src/3d
+### 例子在src/App.vue
+### 暂时支持obj mtl模型
 
-### Compiles and minifies for production
-```
-yarn run build
-```
 
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
